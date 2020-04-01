@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BDM</string>
+
+    <string-array name="List_Product">
+        <item>Cocina1</item>
+        <item>Cocina2</item>
+        <item>Cocina3</item>
+        <item>Cocina4</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Cocina 2018</item>
+        <item>Cocina 2019</item>
+        <item>Cocina 2020</item>
+        <item>Cocina 2020</item>
+
+    </string-array>
+</resources>
